@@ -16,10 +16,10 @@ A brief description of what this project does and who it's for
 </a>
 <a href="https://www.instagram.com/_k.kostadinov__/" target="_blank" rel="noopener noreferrer">
   <img 
-    src="https://raw.githubusercontent.com/gauravghongde/social-icons//blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Instagram.png" 
-    alt="Facebook" 
+    src="https://raw.githubusercontent.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Instagram.png" 
+    alt="Instagram" 
     width="40" 
     height="40" 
-    title="Facebook Profile" 
+    title="Instagram Profile" 
   />
 </a>
