@@ -1,7 +1,7 @@
 # Hi there 👋
-👨‍💻 A Software Developer experienced with the technologies listed in the toolbox below.
-🔥 Curious mind. Continuously learning, seeking patterns and connecting dots.
-🔭 Currently working on improving my programming skills!!
+👨‍💻 A Software Developer experienced with the technologies listed in the toolbox below. <br>
+🔥 Curious mind. Continuously learning, seeking patterns and connecting dots.<br>
+🔭 Currently working on improving my programming skills!!<br>
 :octocat: I’m looking forward to learn from all amazing minds 🧠 in the tech world 🌍!
 
 ## 🛠️ Languages and Tools
