@@ -24,6 +24,7 @@
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/image36.png" alt="Vite" height="40" title="Vite" />
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/image233.png" alt="ExpressJS" height="40" title="ExpressJS" />
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/React-Native-Logo.png" alt="React Native" height="40" title="React Native" />
+<img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/7f5d0cc8ba2bcb64d94b20706997888555764196/assets/icons/Android_Studio_Logo_2024.svg.png" alt="Android Studio" height="40" title="Android Studio" />
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/image45.png" alt="Expo Go" height="40" title="Expo Go" />
 </div>
 
@@ -58,13 +59,6 @@
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/image17.png" alt="OpenAI API" height="40" title="OpenAI API" />
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/image191.png" alt="Gemini AI API" height="40" title="Gemini AI API" />
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/image44.png" alt="Vertex AI API" height="40" title="Vertex AI API" />
-</div>
-
-<br>
-
-<div>
-<img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/7f5d0cc8ba2bcb64d94b20706997888555764196/assets/icons/Android_Studio_Logo_2024.svg.png" alt="Android Studio" height="40" title="Android Studio" />
-<img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/postman-logo-astronaut-orange-circle-flat-design-1.png" alt="Postman" height="40" title="Postman" />
 </div>
 
 ## 📈 Stats
