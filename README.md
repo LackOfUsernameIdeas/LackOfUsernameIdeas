@@ -1,5 +1,5 @@
-# ⚙️ Full-Stack Developer · Real-Time Apps · EEG Explorer · Health App Innovator
-- 👨‍💻 A passionate software developer with hands-on experience across full-stack web and mobile technologies. <br>
+# 👨‍💻 Full-Stack Developer · Real-Time Apps · EEG Explorer · Health App Innovator
+- ⚙️ A passionate software developer with hands-on experience across full-stack web and mobile technologies. <br>
 - 🔧 Curious by nature — always exploring patterns, experimenting with tools, and connecting concepts across AI, APIs, and UI/UX.  <br>
 - 🧠 Currently developing projects that explore **EEG brainwave analysis** using neurotech devices — blending software with cognitive data to unlock new possibilities.
 - 🚀 Built intelligent, user-centered apps — especially in media recommendation, fitness and weight tracking, healthcare, social media influence and etc.  <br>
