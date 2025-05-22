@@ -9,7 +9,6 @@
 
 ## 🛠️ Stats
 ![Kaloyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LackOfUsernameIdeas&theme=gotham&show_icons=true)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LackOfUsernameIdeas&layout=compact&theme=gotham)
 
 ## 🛠️ Social Media
 <a href="https://www.linkedin.com/in/kaloyan-kostadinov-3ab625367/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B8XmTpHbRQqGAFtM942uJyw%3D%3D" target="_blank" rel="noopener noreferrer">
