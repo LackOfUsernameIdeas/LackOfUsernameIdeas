@@ -41,4 +41,13 @@
     title="Instagram Profile" 
   />
 </a>
-
+&#8203;
+<a href="https://www.youtube.com/channel/UCFkb6DwSSHz7wkN9GIYUkqg" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Youtube.png" 
+    alt="YouTube" 
+    width="40" 
+    height="40" 
+    title="YouTube Profile" 
+  />
+</a>
