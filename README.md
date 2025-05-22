@@ -2,7 +2,7 @@
 - 👨‍💻 A Software Developer experienced with the technologies listed in the toolbox below. <br>
 - 🔥 Curious mind. Continuously learning, seeking patterns and connecting dots.<br>
 - 🔭 Currently working on improving my programming skills!!<br>
-- :octocat: I’m looking forward to learn from all amazing minds 🧠 in the tech world 🌍!
+- 🚀 I’m looking forward to learn from all amazing minds 🧠 in the tech world 🌍!
 
 ## 🛠️ Languages and Tools
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/Android_Studio_Logo_2024.svg.png" alt="Android Studio" width="40" height="40" title="Android Studio" />
