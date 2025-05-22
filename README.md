@@ -33,7 +33,7 @@
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/image34.png" alt="TailwindCSS" height="40" title="TailwindCSS" />
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/image35.png" alt="Shadcn" height="40" title="Shadcn" />
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/Bootstrap_logo.svg.png" alt="Bootstrap" height="40" title="Bootstrap" />
-<img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/image299.png" alt="ChakraUI" height="40" title="ChakraUI" />
+<img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/962da56d7c7e81f61e1bffc2b03ab290ec32a69c/assets/icons/download.png" alt="ChakraUI" height="40" title="ChakraUI" />
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/image43.png" alt="Galio Framework" height="40" title="Galio Framework" />
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/image20.png" alt="ApexCharts" height="40" title="ApexCharts" />
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/image22.png" alt="Chart.js" height="40" title="Chart.js" />
