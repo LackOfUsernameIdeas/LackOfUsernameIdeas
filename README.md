@@ -6,7 +6,6 @@
 - 🌱 On a constant journey to improve my craft, share knowledge, and learn from the brilliant devs in the tech community!  <br>
 
 ## 🛠️ Languages and Tools
-
 <div>
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/image16.png" alt="TypeScript" height="40" title="TypeScript" />
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6502f31936adc2f00a4e325ffaa566e3a19fdaa3/assets/icons/Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="40" title="JavaScript" />
@@ -22,7 +21,7 @@
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/image15.png" alt="NodeJS" height="40" title="NodeJS" />
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/nextjs-icon-2048x1234-pqycciiu.png" alt="Next.js" height="40" title="Next.js" />
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/image36.png" alt="Vite" height="40" title="Vite" />
-<img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/ExpressJS.png" alt="ExpressJS" height="40" title="ExpressJS" />
+<img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/0d9fa7da9fbd7da451c769b45b2840daa4f4b16e/assets/icons/ExpressJS.png" alt="ExpressJS" height="40" title="ExpressJS" />
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/React-Native-Logo.png" alt="React Native" height="40" title="React Native" />
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/7f5d0cc8ba2bcb64d94b20706997888555764196/assets/icons/Android_Studio_Logo_2024.svg.png" alt="Android Studio" height="40" title="Android Studio" />
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/image45.png" alt="Expo Go" height="40" title="Expo Go" />
