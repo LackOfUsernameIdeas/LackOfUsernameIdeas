@@ -6,9 +6,10 @@
 - 🌱 On a constant journey to improve my craft, share knowledge, and learn from the brilliant devs in the tech community!  <br>
 
 ## 🛠️ Languages and Tools
+
 <div>
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/image16.png" alt="TypeScript" width="40" height="40" title="TypeScript" />
-<img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" height="40" title="JavaScript" />
+<img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6502f31936adc2f00a4e325ffaa566e3a19fdaa3/assets/icons/Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" height="40" title="JavaScript" />
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="40" height="40" title="HTML5" />
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/image23.png" alt="CSS3" width="40" height="40" title="CSS3" />
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/image26.png" alt="Python" width="40" height="40" title="Python" />
