@@ -63,7 +63,7 @@
 <br>
 
 <div>
-<img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/?.png" alt="Android Studio" height="40" title="Android Studio" />
+<img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/7f5d0cc8ba2bcb64d94b20706997888555764196/assets/icons/Android_Studio_Logo_2024.svg.png" alt="Android Studio" height="40" title="Android Studio" />
 <img src="https://raw.githubusercontent.com/LackOfUsernameIdeas/LackOfUsernameIdeas/6289c5adf9c899fb39e92bc823fe6c82afa205ab/assets/icons/postman-logo-astronaut-orange-circle-flat-design-1.png" alt="Postman" height="40" title="Postman" />
 </div>
 
