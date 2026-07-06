@@ -1,9 +1,7 @@
 # 👨‍💻 Full-Stack Developer · Real-Time Apps · AI · App Innovator 👨‍💻
 - ⚙️ A passionate software developer with hands-on experience across full-stack web and mobile technologies. <br>
-- 🔧 Curious by nature — always exploring patterns, experimenting with tools, and connecting concepts across AI, APIs, and UI/UX.  <br>
-- 🧠 Currently developing projects that explore **EEG brainwave analysis** using neurotech devices — blending software with cognitive data to unlock new possibilities.
-- 🚀 Built intelligent, user-centered apps — especially in media recommendation, fitness and weight tracking, healthcare, social media influence and etc.  <br>
-- 🌱 On a constant journey to improve my craft, share knowledge, and learn from the brilliant devs in the tech community!  <br>
+- 🔧 Curious by nature – always exploring patterns, experimenting with tools, and connecting concepts across AI, APIs, and UI/UX.  <br>
+- 🌱 On a constant journey to improve my craft, share knowledge, and learn from the devs in the tech community!  <br>
 
 ## 🛠️ Languages and Tools
 <div>
