@@ -1,7 +1,9 @@
-# 👨‍💻 Full-Stack Developer · Real-Time Apps · AI · App Innovator 👨‍💻
-- ⚙️ A passionate software developer with hands-on experience across full-stack web and mobile technologies. <br>
+# 👨‍💻 Full-Stack Developer · Real-Time, AI & Hardware-Integrated Apps 👨‍💻
+- ⚙️ A passionate software developer with hands-on experience across full-stack web and mobile technologies – from EEG-based recommendation engines to depth-camera posture correction. <br>
+- 🏆 Ranked nationally in NOIT and NATIT (Bulgaria's top IT competitions) across 4 consecutive years with independently built full-stack projects.  <br>
 - 🔧 Curious by nature – always exploring patterns, experimenting with tools, and connecting concepts across AI, APIs, and UI/UX.  <br>
-- 🌱 On a constant journey to improve my craft, share knowledge, and learn from the devs in the tech community!  <br>
+- 🌱 Currently starting a Bachelor of Engineering – Computer and Software Engineering at Technical University of Sofia, while continuing to build, deploy, and learn from the dev community!  <br>
+
 
 ## 🛠️ Languages and Tools
 <div>
