@@ -1,9 +1,9 @@
 # 👨‍💻 Full-Stack Developer · Real-Time, AI & Hardware-Integrated Apps 👨‍💻
+- 🌐 Check out my portfolio: [kaloyan-kostadinov.vercel.app](https://kaloyan-kostadinov.vercel.app/) <br>
 - ⚙️ A passionate software developer with hands-on experience across full-stack web and mobile technologies – from EEG-based recommendation engines to depth-camera posture correction. <br>
 - 🏆 Ranked nationally in НОИТ and НЕТИТ (two of Bulgaria’s leading IT competitions) across 4 consecutive years with independently built full-stack projects.  <br>
 - 🔧 Curious by nature – always exploring patterns, experimenting with tools, and connecting concepts across AI, APIs, and UI/UX.  <br>
 - 🌱 Currently starting a Bachelor of Engineering – Computer and Software Engineering at Technical University of Sofia, while continuing to build, deploy, and learn from the dev community!  <br>
-- 🌐 Check out my portfolio: [kaloyan-kostadinov.vercel.app](https://kaloyan-kostadinov.vercel.app/) <br>
 
 
 ## 🛠️ Languages and Tools
