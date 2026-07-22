@@ -65,15 +65,6 @@
 ![Kaloyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LackOfUsernameIdeas&theme=gotham&show_icons=true)
 
 ## 🌐 Social Media
-<a href="https://kaloyan-kostadinov.vercel.app/" target="_blank" rel="noopener noreferrer">
-  <img 
-    src="https://img.shields.io/badge/Portfolio-kaloyan--kostadinov.vercel.app-red?style=for-the-badge&logo=vercel&logoColor=white" 
-    alt="Portfolio Website" 
-    height="28"
-    title="Portfolio Website" 
-  />
-</a>
-<br><br>
 <a href="https://www.linkedin.com/in/kaloyan-kostadinov-3ab625367/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B8XmTpHbRQqGAFtM942uJyw%3D%3D" target="_blank" rel="noopener noreferrer">
   <img 
     src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/LinkedIN.png" 
